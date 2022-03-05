@@ -1,4 +1,4 @@
-// CHALLENGE 3: Return an integer in reverse
+// CHALLENGE: Return an integer in reverse
 // ex. reverseInt(521) === 125
 
 function reverseInt(int) {
