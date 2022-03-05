@@ -1,5 +1,4 @@
-// CHALLENGE 1: REVERSE A STRING
-// Return a string in reverse
+// CHALLENGE: Return a string in reverse
 // ex. reverseString('hello') === 'olleh'
 function reverseString1(str) {
   let newStr = '';
