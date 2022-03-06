@@ -31,6 +31,6 @@ function capitalizeLetters3(str) {
     .join(' ');
 }
 
-console.log(capitalizeLetters1('i love i hate'));
-console.log(capitalizeLetters2('i love i hate'));
-console.log(capitalizeLetters3('i love i hate'));
+console.log(capitalizeLetters1('i love javascript'));
+console.log(capitalizeLetters2('i love javascript'));
+console.log(capitalizeLetters3('i love javascript'));
