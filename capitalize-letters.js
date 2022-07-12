@@ -1,5 +1,8 @@
-// CHALLENGE: Return a string with the first letter of every word capitalized
-// ex. capitalizeLetters('i love javascript') === 'I Love Javascript'
+/* CHALLENGE: 
+Return a string with the first letter of every word capitalized
+ex. capitalizeLetters('i love javascript') === 'I Love Javascript'
+ */
+
 function capitalizeLetters1(str) {
   let res = '';
 
