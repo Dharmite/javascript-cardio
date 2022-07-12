@@ -1,5 +1,8 @@
-// CHALLENGE: Return the character that is most common in a string
-// ex. maxCharacter('javascript') === 'a'
+/* 
+CHALLENGE: 
+Return the character that is most common in a string
+ex. maxCharacter('javascript') === 'a' 
+*/
 
 function maxCharacter(str) {
     let letters = {};
